@@ -3,90 +3,90 @@
     "bodyRecords": [
       {
         "path": "/api/v1/users",
-        "body": "{\"name\": \"Diana\", \"age\": 65, \"contactInfo\": {\"email\": \"user1616@example.com\", \"phone\": \"+18757337380\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"51333\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"29963\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"28399\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"74041\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"12003\"}]}",
+        "body": "{\"name\": \"Bob\", \"age\": 40, \"contactInfo\": {\"email\": \"user9168@example.com\", \"phone\": \"+18754541090\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"81854\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"36428\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"46840\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"82233\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"15316\"}]}",
         "statusCode": 201,
-        "responseBody": "{\"id\":1,\"name\":\"Diana\",\"age\":65,\"contactInfo\":{\"email\":\"user1616@example.com\",\"phone\":\"+18757337380\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"51333\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"29963\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"28399\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"74041\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"12003\",\"state\":\"\"}]}\n",
-        "timestamp": "2026-02-16T11:02:24.463967072-05:00",
+        "responseBody": "{\"id\":1,\"name\":\"Bob\",\"age\":40,\"contactInfo\":{\"email\":\"user9168@example.com\",\"phone\":\"+18754541090\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"81854\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"36428\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"46840\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"82233\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"15316\",\"state\":\"\"}]}\n",
+        "timestamp": "2026-02-16T11:56:10.55526035-05:00",
         "method": "POST"
       },
       {
         "path": "/api/v1/users",
-        "body": "{\"name\": \"Charlie\", \"age\": 49, \"contactInfo\": {\"email\": \"user5184@example.com\", \"phone\": \"+18755965441\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"95621\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"30623\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"89039\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"83454\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"56964\"}]}",
+        "body": "{\"name\": \"Eve\", \"age\": 24, \"contactInfo\": {\"email\": \"user8663@example.com\", \"phone\": \"+18759399505\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"73794\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"19607\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"47845\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"67795\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"16914\"}]}",
         "statusCode": 201,
-        "responseBody": "{\"id\":2,\"name\":\"Charlie\",\"age\":49,\"contactInfo\":{\"email\":\"user5184@example.com\",\"phone\":\"+18755965441\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"95621\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"30623\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"89039\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"83454\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"56964\",\"state\":\"\"}]}\n",
-        "timestamp": "2026-02-16T11:02:24.567430008-05:00",
+        "responseBody": "{\"id\":2,\"name\":\"Eve\",\"age\":24,\"contactInfo\":{\"email\":\"user8663@example.com\",\"phone\":\"+18759399505\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"73794\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"19607\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"47845\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"67795\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"16914\",\"state\":\"\"}]}\n",
+        "timestamp": "2026-02-16T11:56:10.658180146-05:00",
         "method": "POST"
       },
       {
         "path": "/api/v1/users",
-        "body": "{\"name\": \"Diana\", \"age\": 46, \"contactInfo\": {\"email\": \"user6057@example.com\", \"phone\": \"+18754351048\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"98630\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"94832\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"61050\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"24783\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"50845\"}]}",
+        "body": "{\"name\": \"Diana\", \"age\": 24, \"contactInfo\": {\"email\": \"user8187@example.com\", \"phone\": \"+18753682096\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"11562\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"98297\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"75368\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"14834\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"15045\"}]}",
         "statusCode": 201,
-        "responseBody": "{\"id\":3,\"name\":\"Diana\",\"age\":46,\"contactInfo\":{\"email\":\"user6057@example.com\",\"phone\":\"+18754351048\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"98630\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"94832\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"61050\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"24783\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"50845\",\"state\":\"\"}]}\n",
-        "timestamp": "2026-02-16T11:02:24.669084162-05:00",
+        "responseBody": "{\"id\":3,\"name\":\"Diana\",\"age\":24,\"contactInfo\":{\"email\":\"user8187@example.com\",\"phone\":\"+18753682096\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"11562\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"98297\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"75368\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"14834\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"15045\",\"state\":\"\"}]}\n",
+        "timestamp": "2026-02-16T11:56:10.75985195-05:00",
         "method": "POST"
       },
       {
         "path": "/api/v1/users",
-        "body": "{\"name\": \"Charlie\", \"age\": 36, \"contactInfo\": {\"email\": \"user2861@example.com\", \"phone\": \"+18751478534\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"28156\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"38740\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"96329\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"83516\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"98736\"}]}",
+        "body": "{\"name\": \"Diana\", \"age\": 39, \"contactInfo\": {\"email\": \"user3297@example.com\", \"phone\": \"+18756157184\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"83795\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"27538\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"65075\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"99183\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"42207\"}]}",
         "statusCode": 201,
-        "responseBody": "{\"id\":4,\"name\":\"Charlie\",\"age\":36,\"contactInfo\":{\"email\":\"user2861@example.com\",\"phone\":\"+18751478534\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"28156\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"38740\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"96329\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"83516\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"98736\",\"state\":\"\"}]}\n",
-        "timestamp": "2026-02-16T11:02:24.770699343-05:00",
+        "responseBody": "{\"id\":4,\"name\":\"Diana\",\"age\":39,\"contactInfo\":{\"email\":\"user3297@example.com\",\"phone\":\"+18756157184\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"83795\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"27538\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"65075\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"99183\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"42207\",\"state\":\"\"}]}\n",
+        "timestamp": "2026-02-16T11:56:10.861687398-05:00",
         "method": "POST"
       },
       {
         "path": "/api/v1/users",
-        "body": "{\"name\": \"Eve\", \"age\": 19, \"contactInfo\": {\"email\": \"user8650@example.com\", \"phone\": \"+18758342817\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"30246\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"35276\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"76149\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"19318\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"41253\"}]}",
+        "body": "{\"name\": \"Bob\", \"age\": 18, \"contactInfo\": {\"email\": \"user4669@example.com\", \"phone\": \"+18751181828\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"10473\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"39800\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"30726\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"59993\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"79436\"}]}",
         "statusCode": 201,
-        "responseBody": "{\"id\":5,\"name\":\"Eve\",\"age\":19,\"contactInfo\":{\"email\":\"user8650@example.com\",\"phone\":\"+18758342817\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"30246\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"35276\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"76149\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"19318\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"41253\",\"state\":\"\"}]}\n",
-        "timestamp": "2026-02-16T11:02:24.872318-05:00",
+        "responseBody": "{\"id\":5,\"name\":\"Bob\",\"age\":18,\"contactInfo\":{\"email\":\"user4669@example.com\",\"phone\":\"+18751181828\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"10473\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"39800\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"30726\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"59993\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"79436\",\"state\":\"\"}]}\n",
+        "timestamp": "2026-02-16T11:56:10.963330319-05:00",
+        "method": "POST"
+      },
+      {
+        "path": "/api/v1/users/:id",
+        "body": "{\"name\": \"Eve\", \"age\": 44, \"contactInfo\": {\"email\": \"user8391@example.com\", \"phone\": \"+18751333228\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"87387\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"31623\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"77189\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"69757\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"41001\"}]}",
+        "statusCode": 200,
+        "responseBody": "{\"id\":3,\"name\":\"Eve\",\"age\":44,\"contactInfo\":{\"email\":\"user8391@example.com\",\"phone\":\"+18751333228\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"87387\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"31623\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"77189\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"69757\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"41001\",\"state\":\"\"}]}\n",
+        "timestamp": "2026-02-16T11:56:11.346283847-05:00",
+        "method": "PUT"
+      },
+      {
+        "path": "/api/v:id/users/1",
+        "body": "{\"name\": \"Alice\", \"age\": 27, \"contactInfo\": {\"email\": \"user9179@example.com\", \"phone\": \"+18751338161\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"59946\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"86918\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"54989\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"67985\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"75396\"}]}",
+        "statusCode": 200,
+        "responseBody": "{\"id\":1,\"name\":\"Alice\",\"age\":27,\"contactInfo\":{\"email\":\"user9179@example.com\",\"phone\":\"+18751338161\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"59946\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"86918\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"54989\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"67985\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"75396\",\"state\":\"\"}]}\n",
+        "timestamp": "2026-02-16T11:56:11.544026059-05:00",
+        "method": "PUT"
+      },
+      {
+        "path": "/api/v:id/users/1",
+        "body": "{\"name\": \"Alice\", \"age\": 54, \"contactInfo\": {\"email\": \"user7153@example.com\", \"phone\": \"+18754573960\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"70574\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"11030\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"64567\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"65890\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"42505\"}]}",
+        "statusCode": 200,
+        "responseBody": "{\"id\":1,\"name\":\"Alice\",\"age\":54,\"contactInfo\":{\"email\":\"user7153@example.com\",\"phone\":\"+18754573960\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"70574\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"11030\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"64567\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"65890\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"42505\",\"state\":\"\"}]}\n",
+        "timestamp": "2026-02-16T11:56:11.819254207-05:00",
+        "method": "PUT"
+      },
+      {
+        "path": "/api/v1/users",
+        "body": "{\"name\": \"Bob\", \"age\": 18, \"contactInfo\": {\"email\": \"user7180@example.com\", \"phone\": \"+18755252745\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"97073\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"37075\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"52955\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"79714\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"72938\"}]}",
+        "statusCode": 201,
+        "responseBody": "{\"id\":6,\"name\":\"Bob\",\"age\":18,\"contactInfo\":{\"email\":\"user7180@example.com\",\"phone\":\"+18755252745\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"97073\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"37075\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"52955\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"79714\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"72938\",\"state\":\"\"}]}\n",
+        "timestamp": "2026-02-16T11:56:12.018952239-05:00",
         "method": "POST"
       },
       {
         "path": "/api/v1/users/:id",
         "body": "",
         "statusCode": 200,
-        "responseBody": "{\"id\":4,\"name\":\"Charlie\",\"age\":36,\"contactInfo\":{\"email\":\"user2861@example.com\",\"phone\":\"+18751478534\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"28156\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"38740\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"96329\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"83516\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"98736\",\"state\":\"\"}]}\n",
-        "timestamp": "2026-02-16T11:02:25.118971996-05:00",
-        "method": "GET"
-      },
-      {
-        "path": "/api/v1/users",
-        "body": "",
-        "statusCode": 200,
-        "responseBody": "[{\"id\":5,\"name\":\"Eve\",\"age\":19,\"contactInfo\":{\"email\":\"user8650@example.com\",\"phone\":\"+18758342817\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"30246\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"35276\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"76149\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"19318\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"41253\",\"state\":\"\"}]},{\"id\":1,\"name\":\"Diana\",\"age\":65,\"contactInfo\":{\"email\":\"user1616@example.com\",\"phone\":\"+18757337380\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"51333\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"29963\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"28399\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"74041\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"12003\",\"state\":\"\"}]},{\"id\":2,\"name\":\"Charlie\",\"age\":49,\"contactInfo\":{\"email\":\"user5184@example.com\",\"phone\":\"+18755965441\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"95621\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"30623\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"89039\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"83454\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"56964\",\"state\":\"\"}]},{\"id\":3,\"name\":\"Diana\",\"age\":46,\"contactInfo\":{\"email\":\"user6057@example.com\",\"phone\":\"+18754351048\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"98630\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"94832\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"61050\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"24783\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"50845\",\"state\":\"\"}]},{\"id\":4,\"name\":\"Charlie\",\"age\":36,\"contactInfo\":{\"email\":\"user2861@example.com\",\"phone\":\"+18751478534\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"28156\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"38740\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"96329\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"83516\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"98736\",\"state\":\"\"}]}]\n",
-        "timestamp": "2026-02-16T11:02:25.611290874-05:00",
-        "method": "GET"
-      },
-      {
-        "path": "/api/v1/users/:id",
-        "body": "{\"name\": \"Alice\", \"age\": 65, \"contactInfo\": {\"email\": \"user6634@example.com\", \"phone\": \"+18756392003\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"21793\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"72113\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"55721\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"13895\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"27917\"}]}",
-        "statusCode": 200,
-        "responseBody": "{\"id\":2,\"name\":\"Alice\",\"age\":65,\"contactInfo\":{\"email\":\"user6634@example.com\",\"phone\":\"+18756392003\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"21793\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"72113\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"55721\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"13895\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"27917\",\"state\":\"\"}]}\n",
-        "timestamp": "2026-02-16T11:02:25.960745511-05:00",
-        "method": "PUT"
-      },
-      {
-        "path": "/api/v1/users",
-        "body": "{\"name\": \"Eve\", \"age\": 20, \"contactInfo\": {\"email\": \"user9444@example.com\", \"phone\": \"+18759341376\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"13447\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"81460\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"84815\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"58932\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"61313\"}]}",
-        "statusCode": 201,
-        "responseBody": "{\"id\":6,\"name\":\"Eve\",\"age\":20,\"contactInfo\":{\"email\":\"user9444@example.com\",\"phone\":\"+18759341376\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"13447\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"81460\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"84815\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"58932\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"61313\",\"state\":\"\"}]}\n",
-        "timestamp": "2026-02-16T11:02:26.43098866-05:00",
-        "method": "POST"
-      },
-      {
-        "path": "/api/v1/users/:id",
-        "body": "{\"name\": \"Bob\", \"age\": 30, \"contactInfo\": {\"email\": \"user5073@example.com\", \"phone\": \"+18752133459\"}, \"address\": [{\"street\": \"your mom blvd\", \"zipcode\": \"75050\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"61972\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"19318\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"96214\"}, {\"street\": \"your mom blvd\", \"zipcode\": \"35170\"}]}",
-        "statusCode": 200,
-        "responseBody": "{\"id\":4,\"name\":\"Bob\",\"age\":30,\"contactInfo\":{\"email\":\"user5073@example.com\",\"phone\":\"+18752133459\"},\"address\":[{\"street\":\"your mom blvd\",\"zipcode\":\"75050\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"61972\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"19318\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"96214\",\"state\":\"\"},{\"street\":\"your mom blvd\",\"zipcode\":\"35170\",\"state\":\"\"}]}\n",
-        "timestamp": "2026-02-16T11:02:26.918085414-05:00",
-        "method": "PUT"
+        "responseBody": "{\"status\":\"deleted\"}\n",
+        "timestamp": "2026-02-16T11:56:12.191610581-05:00",
+        "method": "DELETE"
       }
     ],
     "headers": {
       "Accept": "*/*",
       "Accept-Encoding": "gzip, deflate, zstd",
       "Connection": "keep-alive",
-      "Content-Length": "361",
+      "Content-Length": "359",
       "Content-Type": "application/json",
       "User-Agent": "python-requests/2.32.5"
     }

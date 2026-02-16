@@ -12,6 +12,7 @@ import (
 
 var testApp *your.App // your app
 
+
 func TestMain(m *testing.M) {
 	// configure your app here
 }
